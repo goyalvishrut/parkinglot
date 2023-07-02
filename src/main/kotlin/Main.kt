@@ -63,7 +63,7 @@ val testInput = listOf(
 )
 
 fun main() {
-    testInput()
+//    testInput()
     while (true) {
         val input = readln()
         val list = input.split(" ")
